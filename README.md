@@ -1,5 +1,6 @@
-<div align="center">
-Hi there, I'm 
+<div align="center">Hi there, I'm
+<div align="center"><img src ="./Banner.png" />
+
 </div>
 
 <br/>
