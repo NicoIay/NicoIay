@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+Hi there, I'm 
+</div>
+
+<br/>
 
 <!--
 **NicoIay/NicoIay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
