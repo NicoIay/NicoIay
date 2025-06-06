@@ -6,10 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=NicoIay&color=brightgreen" alt="Profile Views">
 </p>
 
-
 ## 👨🏻‍💻 Developer
 
-
+<div />
+<img style="height:100%;width:49%;max-width: 100%; max-height: 164px" align="center" src="https://github-readme-stats.vercel.app/api?username=NicoIay&show_icons=true&title_color=1ae00a&d&include_all_commits=true&icon_color=1ae00a&border_color=9929ea&bg_color=DEG,9929ea40,8e28ed40,5808fb40&count_private=true&cache_seconds=86400&theme=dark"/>
 
 
 <!--
