@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=NicoIay&color=brightgreen" alt="Profile Views"> </p>
 
 #
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=50:9929ea,0:8e28ed40,0:5808fb&text=About%20Me&fontSize=55&reversal=true&section=footer&textBg=false&fontColor=1ae00a&animation=blinking&fontAlign=50&stroke=7012b5&strokeWidth=0&descAlignY=50&rotate=0&fontAlignY=50&descAlign=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50:9929ea,0:8e28ed40,0:5808fb&text=About%20Me&fontSize=55&reversal=true&section=footer&textBg=false&fontColor=1ae00a&animation=blinking&fontAlign=50&stroke=7012b5&strokeWidth=0&descAlignY=50&rotate=0&fontAlignY=50&descAlign=50">
 
 #
 Hello! I’m a Software Engineering student with a comprehensive focus on web application development as a Fullstack Developer. I combine the power of code with the creativity of design to build complete, functional, and visually impactful digital experiences. 
@@ -27,7 +27,7 @@ I'm a creative, curious, and detail-oriented person. I love exploring new techno
 </div>
 
 #
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=50:9929ea,0:8e28ed40,0:5808fb&text=📊GitHub%20Analytics&fontSize=55&reversal=true&section=footer&textBg=false&fontColor=1ae00a&animation=blinking&fontAlign=50&stroke=7012b5&strokeWidth=0&descAlignY=50&rotate=0&fontAlignY=50&descAlign=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=50:9929ea,0:8e28ed40,0:5808fb&text=📊GitHub%20Analytics&fontSize=55&reversal=true&section=footer&textBg=false&fontColor=1ae00a&animation=blinking&fontAlign=50&stroke=7012b5&strokeWidth=0&descAlignY=50&rotate=0&fontAlignY=50&descAlign=50">
 
 #
 
