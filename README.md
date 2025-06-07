@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=NicoIay&color=brightgreen" alt="Profile Views"> </p>
 
 #
-
 <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=50:9929ea,0:8e28ed40,0:5808fb&text=About%20Me&fontSize=55&reversal=true&section=footer&textBg=false&fontColor=1ae00a&animation=blinking&fontAlign=50&stroke=7012b5&strokeWidth=0&descAlignY=50&rotate=0&fontAlignY=50&descAlign=50">
 
 #
@@ -27,7 +26,10 @@ I'm a creative, curious, and detail-oriented person. I love exploring new techno
   <img src="./assets/icon_nicolay.png" width="100" alt="Icono personal" style="border-radius: 50%;" />
 </div>
 
-# 📊 GitHub Analytics
+#
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=50:9929ea,0:8e28ed40,0:5808fb&text=📊GitHub%20Analytics&fontSize=55&reversal=true&section=footer&textBg=false&fontColor=1ae00a&animation=blinking&fontAlign=50&stroke=7012b5&strokeWidth=0&descAlignY=50&rotate=0&fontAlignY=50&descAlign=50">
+
+#
 
 <div />
 <a href="https://git.io/streak-stats"><img style="height:100%;width:50%;max-width: 100%; max-height: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=NicoIay&theme=hacker&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&ring=9929EA9D&border=9929EA&background=45%2C9929EA40%2C9929EA40&fire=02EB12&dates=EBEBEB76" alt="GitHub Streak" /></a>
