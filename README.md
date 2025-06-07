@@ -14,9 +14,9 @@
 ## 📊 GitHub Analytics
 
 <div />
-<a href="https://git.io/streak-stats"><img style="height:100%;width:49%;max-width: 100%; max-height: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=NicoIay&theme=hacker&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&ring=9929EA9D&border=9929EA&background=45%2C9929EA40%2C9929EA40&fire=02EB12&dates=EBEBEB76" alt="GitHub Streak" /></a>
-<img style="height:90%;width:46,5%;max-width: 50%; max-height: 164px"  src="https://github-readme-stats.vercel.app/api?username=NicoIay&show_icons=true&title_color=1ae00a&d&include_all_commits=true&icon_color=1ae00a&border_color=9929ea&bg_color=DEG,9929ea40,8e28ed40,5808fb40&count_private=true&cache_seconds=86400&theme=dark"/>
-<img style="height:40%;width:44%;max-width: 100%; max-height: 164px"  src="https://github-readme-stats.vercel.app/api/top-langs/?&username=NicoIay&show_icons=true&title_color=1ae00a&d&include_all_commits=true&icon_color=1ae00a&border_color=9929ea&bg_color=DEG,9929ea40,8e28ed40,5808fb40&layout=compact&count_private=true&cache_seconds=86400&theme=dark"/>
+<a href="https://git.io/streak-stats"><img style="height:100%;width:50%;max-width: 100%; max-height: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=NicoIay&theme=hacker&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&ring=9929EA9D&border=9929EA&background=45%2C9929EA40%2C9929EA40&fire=02EB12&dates=EBEBEB76" alt="GitHub Streak" /></a>
+<img style="height:90%;width:50%;max-width: 50%; max-height: 164px"  src="https://github-readme-stats.vercel.app/api?username=NicoIay&show_icons=true&title_color=1ae00a&d&include_all_commits=true&icon_color=1ae00a&border_color=9929ea&bg_color=DEG,9929ea40,8e28ed40,5808fb40&count_private=true&cache_seconds=86400&theme=dark"/>
+<img style="height:40%;width:50%;max-width: 100%; max-height: 164px"  src="https://github-readme-stats.vercel.app/api/top-langs/?&username=NicoIay&show_icons=true&title_color=1ae00a&d&include_all_commits=true&icon_color=1ae00a&border_color=9929ea&bg_color=DEG,9929ea40,8e28ed40,5808fb40&layout=compact&count_private=true&cache_seconds=86400&theme=dark"/>
 <div />
 <!--
 **NicoIay/NicoIay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
